@@ -1,0 +1,4 @@
+pydantic>=1.10
+python-dotenv>=0.21.0
+anyio>=3.6.2
+
